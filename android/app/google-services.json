@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "370088313217",
+    "firebase_url": "https://fir-4bf22-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-4bf22",
+    "storage_bucket": "fir-4bf22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370088313217:android:9f5c924cdcbe1492812880",
+        "android_client_info": {
+          "package_name": "io.phatree.csdev.csfirebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370088313217-jigkfea748ljsopnl36630d537strqnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Od2LipMlhVQ6fH_-9hwOaX3jOaefYGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370088313217-jigkfea748ljsopnl36630d537strqnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
